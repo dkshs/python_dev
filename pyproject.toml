@@ -12,7 +12,7 @@ classifiers = [
 ]
 dependencies = [
   "jinja2==3.1.4",
-  "mypy==1.13",
+  "mypy==1.14.0",
   "pre-commit==4.0.1",
   "ruff==0.8.4",
 ]
